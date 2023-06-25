@@ -1,9 +1,8 @@
 <p align="center">
   <a href=""><img src="./1.jpg" alt="Banner"></a>
 </p>
-<h1 align="center">Hi 👋, I'm iridescentGray</h1>
-## Hey! 👋
-I'm iridescentGray, a 18 years old naive developer from China.
+<h1 align="center">Hi 👋</h1>
+##I'm iridescentGray, a 18 years old naive developer from China.
 
 <p align="left">
 </p>
