@@ -1,6 +1,3 @@
-<p align="center">
-  <a href=""><img src="./1.jpg" alt="Banner"></a>
-</p>
 <h1 align="center">Hi 👋</h1>
 ##I'm iridescentGray, a 18 years old naive developer from China.
 
