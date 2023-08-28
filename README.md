@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-##I'm iridescentGray, a ? years old naive developer from China.
+##I'm iridescentGray, a ? years old developer from China.
 
 <p align="left">
 </p>
