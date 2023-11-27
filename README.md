@@ -12,23 +12,19 @@
   ![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white])
   ![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white])
 
-**Java**: 
+ **Java**: 
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white])
   ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot])
   
-  **Web**
+  **Web**: 
   ![Javascript](https://img.shields.io/badge/-Javascript-orange?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-orange?style=flat&logo=typescript)
   ![VUE.JS](https://img.shields.io/badge/-VUE.JS-orange?style=flat&logo=vue.js)
 
-  **Software Development:**
-![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white])
-
 
 ---
 ![xxx's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iridescentGray&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
-![xxx's Github language](https://github-readme-stats.vercel.app/api?username=iridescentGray&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
+![xxx's Github language](https://github-readme-stats.vercel.app/api?username=iridescentGray&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
 
 ![view](https://komarev.com/ghpvc/?username=iridescentGray&color=blueviolet)
 
