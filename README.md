@@ -1,6 +1,6 @@
 ## Hi👋
 
-### 💻:keyboard:  I'm iridescentGray, a 18 years old developer from China.
+### I'm iridescentGray, a 18 years old developer💻 from China.
 
 ### 🔨 Languages and Tools
 
