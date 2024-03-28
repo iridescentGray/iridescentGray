@@ -10,7 +10,6 @@
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow])
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas])
   ![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white])
-  ![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white])
 
  **Java**: 
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white])
