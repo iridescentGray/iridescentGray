@@ -10,15 +10,15 @@
 
 **Framework**:
 
-![skills](https://skillicons.dev/icons?i=nodejs,vue,pytorch,spring,tensorflow)
+![skills](https://skillicons.dev/icons?i=spring,jquery,nodejs,vue,pytorch,tensorflow,fastapi,flask,selenium,rabbitmq)
 
 **Tool**:
 
-![skills](https://skillicons.dev/icons?i=git,linux,vscode,mysql,vim,bash,docker,k8s,kali)
+![skills](https://skillicons.dev/icons?i=apple,kali,debian,vscode,idea,maven,mysql,redis,docker,k8s)
 
 ---
 
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iridescentGray&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&langs_count=6"/><img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=iridescentGray&hide_border=true&hide_title=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&include_all_commits=true" />
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iridescentGray&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&langs_count=6"/><img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=iridescentGray&hide_border=true&hide_title=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 ---
 
