@@ -6,11 +6,11 @@
 
 **Lanaguage**:
 
-![skills](https://skillicons.dev/icons?i=py,java,go,js,ts,rust)
+![skills](https://skillicons.dev/icons?i=py,java,go,rust)
 
 **Framework**:
 
-![skills](https://skillicons.dev/icons?i=spring,jquery,nodejs,vue,pytorch,tensorflow,fastapi,flask,selenium,rabbitmq)
+![skills](https://skillicons.dev/icons?i=spring,vue,pytorch,tensorflow,fastapi,flask,selenium)
 
 **Tool**:
 
