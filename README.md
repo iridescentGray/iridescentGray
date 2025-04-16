@@ -6,7 +6,7 @@
 
 **Lanaguage**:
 
-![skills](https://skillicons.dev/icons?i=py,java,go,rust)
+![skills](https://skillicons.dev/icons?i=py,java,go)
 
 **Framework**:
 
